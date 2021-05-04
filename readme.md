@@ -15,6 +15,7 @@ Then you need to set up a Blynk account on your phone and install the Blynk app 
 ![plot](https://github.com/20094523/project2/blob/master/images/blynk1.png "blynk1")
 ![plot](https://github.com/20094523/project2/blob/master/images/blynk2.png "blynk2")
 ![plot](https://github.com/20094523/project2/blob/master/images/blynk5.png "blynk3")
+![plot](https://github.com/20094523/project2/blob/master/images/blynkemail.png "email")
 ![plot](https://github.com/20094523/project2/blob/master/images/blynk3.png "blynk4")
 ![plot](https://github.com/20094523/project2/blob/master/images/blynk4.png "blynk5")
 
