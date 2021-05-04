@@ -26,8 +26,8 @@ Then write and run the python code onto your Raspberry Pi, using Wyliodrin Studi
 
 Set up your breadboard, arduino and raspberry pi as shown in the images below.
 
-![plot](https://github.com/20094523/project2/blob/master/images/breadboard1.png "Diagram")
 ![plot](https://github.com/20094523/project2/blob/master/images/breadboard2.png "Real Life Example")
+![plot](https://github.com/20094523/project2/blob/master/images/breadboard1.png "Diagram")
 
 After all of this has been set up, your app will notify you when the LDR is unobstructed (food bowl is empty).
 
