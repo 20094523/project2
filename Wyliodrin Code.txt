@@ -1,0 +1,18 @@
+import serial
+import blynklib
+import time
+ser = serial.Serial('/dev/ttyACM0', 9600)
+ser.flushInput()
+
+BLYNK_AUTH = '' #your blynk_auth code
+
+# initialize Blynk
+blynk = blynklib.Blynk(BLYNK_AUTH, server='blynk-cloud.com', port=80, ssl_cert=None,  log=print)
+
+while True: 
+        ser_bytes = ser.readline()
+        empty = str(ser_bytes)[2]
+        blynk.run()
+        if empty == "1" :
+            blynk.notify('Food Bowl Empty')
+        time.sleep(300) #you can modify sleep value depending on how much
