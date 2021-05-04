@@ -24,4 +24,4 @@ Set up your breadboard, arduino and raspberry pi as shown in the images below.
 
 After all of this has been set up, your app will notify you when the LDR is unobstructed (food bowl is empty).
 
-![alt text](https://github.com/20094523/project2/blob/master/images/final.png "Notification Working")
+![plot](https://github.com/20094523/project2/blob/master/images/final.png "Notification Working")
