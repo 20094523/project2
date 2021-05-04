@@ -22,6 +22,8 @@ Then you need to set up a Blynk account on your phone and install the Blynk app 
 Then write and run the python code onto your Raspberry Pi, using Wyliodrin Studio found below again. Make sure to install Blynk on your raspberry pi so that it can connect to your phone! (as with before, you can adjust the time between notifications inside of the code)
 >   https://wyliodrin.studio/
 
+![plot](https://github.com/20094523/project2/blob/master/images/wyliodrin.png "blynk5")
+
 Set up your breadboard, arduino and raspberry pi as shown in the images below.
 
 ![plot](https://github.com/20094523/project2/blob/master/images/breadboard1.png "Diagram")
